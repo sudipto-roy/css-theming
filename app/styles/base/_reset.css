@@ -1,0 +1,14 @@
+html,
+body,
+:--headings,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+header,
+footer,
+main,
+aside {
+  display: block;
+}

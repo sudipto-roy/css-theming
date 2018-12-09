@@ -1,0 +1,10 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid color(var(--theme-primary-color) lightness(70%));
+  &__content {
+    text-align: center;
+    padding: var(--spacing-s);
+  }
+}

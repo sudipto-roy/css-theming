@@ -1,0 +1,106 @@
+/* CSS Vaiables */
+:root {
+  /* Typography Variables */
+  /* Font Size Variables */
+  /* Spacing Variables */
+  /* Color Variables */
+  /*--theme-primary-color: #b50003;*/
+}
+/* PostCSS Custom Selectors */
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+header,
+footer,
+main,
+aside {
+  display: block;
+}
+html {
+  position: relative;
+  min-height: 100%;
+  font: 16px 'Calibri';
+  font: 16px 'Calibri';
+  color: #259bca;
+  color: #259bca;
+  background: rgb(233, 246, 251);
+  background: rgb(233, 246, 251);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Arial Black';
+  font-family: 'Arial Black';
+  text-align: center;
+}
+h1 {
+  font-size: 32px;
+  font-size: 2rem;
+  font-size: 32px;
+  font-size: 2rem;
+}
+h2 {
+  font-size: 25.12px;
+  font-size: 1.57rem;
+  font-size: 25.12px;
+  font-size: 1.57rem;
+}
+h3 {
+  font-size: 19.52px;
+  font-size: 1.22rem;
+  font-size: 19.52px;
+  font-size: 1.22rem;
+}
+h4 {
+  font-size: 16px;
+  font-size: 1rem;
+  font-size: 16px;
+  font-size: 1rem;
+}
+h5 {
+  font-size: 13.12px;
+  font-size: 0.82rem;
+  font-size: 13.12px;
+  font-size: 0.82rem;
+}
+h6 {
+  font-size: 10.72px;
+  font-size: 0.67rem;
+  font-size: 10.72px;
+  font-size: 0.67rem;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid rgb(126, 201, 231);
+  border-top: 1px solid rgb(126, 201, 231);
+}
+.footer__content {
+    text-align: center;
+    padding: 10.72px;
+    padding: 0.67rem;
+    padding: 10.72px;
+    padding: 0.67rem;
+  }
+.theme-changer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+/*# sourceMappingURL=styles.min.css.map */

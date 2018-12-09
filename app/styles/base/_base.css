@@ -1,0 +1,29 @@
+html {
+  position: relative;
+  min-height: 100%;
+  font: var(--base-font-size) var(--font-family-content);
+  color: var(--theme-primary-color);
+  background: var(--theme-primary-bgcolor);
+}
+:--headings {
+  font-family: var(--font-family-heading);
+  text-align: center;
+}
+h1 {
+  font-size: var(--font-size-xxl);
+}
+h2 {
+  font-size: var(--font-size-xl);
+}
+h3 {
+  font-size: var(--font-size-l);
+}
+h4 {
+  font-size: var(--font-size-m);
+}
+h5 {
+  font-size: var(--font-size-s);
+}
+h6 {
+  font-size: var(--font-size-xs);
+}

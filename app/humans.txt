@@ -1,0 +1,16 @@
+﻿/* TEAM */
+    Developer: Maria Macias
+    Twitter: @maria_ux
+    From:Barcelona, Catalonia, Spain
+
+/* THANKS */
+    Opportunity: XT Team, Publicis.Sapient
+    Twitter: @prosciuttos
+    From: Barcelona, Catalonia, Spain
+
+/* SITE */
+    Last update: 2018/10/03
+    Language: English
+    Standards: HTML5, CSS3, SCSS, POST-CSS, SMACSS
+    Doctype: HTML5
+    IDE: Sublime Text, Photoshop

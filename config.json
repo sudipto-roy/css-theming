@@ -1,0 +1,10 @@
+{
+  "paths":
+  {
+    "CSS":
+    {
+      "src": "./app/styles/styles.css",
+      "dest": "./app/styles/"
+    }
+  }
+}

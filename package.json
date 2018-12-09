@@ -1,0 +1,29 @@
+{
+  "name": "css-themeing",
+  "version": "1.0.0",
+  "description": "themeing with post-css",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm-run-all default server",
+    "default": "gulp",
+    "server": "http-server ./app -o"
+  },
+  "author": "Sudipto Roy",
+  "license": "",
+  "devDependencies": {
+    "autoprefixer": "^8.2.0",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "npm-run-all": "^4.1.2",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-import": "^11.1.0",
+    "precss": "^3.1.2"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ],
+  "dependencies": {}
+}
